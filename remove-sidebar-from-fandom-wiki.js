@@ -8,6 +8,7 @@
 // @match        https://fandom.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=fandom.com
 // @homepage     https://github.com/omduggineni/BrowserScripts
+// @source       https://github.com/omduggineni/BrowserScripts
 // @grant        MIT
 // ==/UserScript==
 
